@@ -1,8 +1,8 @@
-# Test SC
+# Test FastAPI
 
 ## Sujet
 ### Description
-Le principe du test est de faire un sous-ensemble d'une plateforme de réservation de ressources, ce qui fait partie de notre quotidien.
+Le principe est de faire un sous-ensemble d'une plateforme de réservation de ressources, ce qui fait partie de notre quotidien.
 
 Une ressource est composée de:
 * un libellé
@@ -29,9 +29,6 @@ Niveau 2:
 * ~~Permettre à un utilisateur de lister les ressources~~
 * ~~Permettre à un administrateur d'accéder à toutes les réservations~~
 * ~~Filtrage sur la liste des ressources (type et localisation)~~
-
-Niveau 3:
-- Mise en place d'OAuth
 
 ## Dev
 ### Install
